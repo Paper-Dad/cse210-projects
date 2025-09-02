@@ -27,6 +27,6 @@ class Program
                 Console.WriteLine("Higher");
             }
         }
-        
+
     }
 }
