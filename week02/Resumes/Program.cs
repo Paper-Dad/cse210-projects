@@ -16,6 +16,6 @@ class Program
         job2._startYear = 2020;
         job2._endYear = 2023;
 
-        Job.display();
+        job1.Display();
     }
 }
