@@ -1,0 +1,3 @@
+550
+SimpleGoal|speak in church|speak in church|100|True
+ChecklistGoal|visit the temple|visit the temple|50|200|5|5
